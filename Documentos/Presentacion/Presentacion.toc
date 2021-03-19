@@ -1,0 +1,27 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{1}%
+\contentsline {section}{\numberline {2}Actividad propuesta}{1}%
+\contentsline {subsection}{\numberline {2.1}Teoria aplicada sugerida}{1}%
+\contentsline {subsection}{\numberline {2.2}Parámetros y rangos a determinar}{1}%
+\contentsline {subsection}{\numberline {2.3}Equipos y aparatos}{1}%
+\contentsline {subsection}{\numberline {2.4}Medidas de seguridad}{1}%
+\contentsline {subsection}{\numberline {2.5}Condiciones ambientales}{2}%
+\contentsline {subsection}{\numberline {2.6}Procedimiento de la práctica}{2}%
+\contentsline {subsection}{\numberline {2.7}Datos a ser registrados}{3}%
+\contentsline {subsection}{\numberline {2.8}Incertidumbre}{3}%
+\contentsline {section}{\numberline {3}Desarrollo}{3}%
+\contentsline {subsection}{\numberline {3.1}Diagrama de flujo de funcionamiento}{3}%
+\contentsline {subsection}{\numberline {3.2}Sensor de temperatura (termistor)}{4}%
+\contentsline {subsubsection}{\numberline {3.2.1}Acondicionamiento y linealización del NTC}{4}%
+\contentsline {subsubsection}{\numberline {3.2.2}Ecuación de un termistor NTC}{6}%
+\contentsline {subsubsection}{\numberline {3.2.3}Calcular la temperatura}{8}%
+\contentsline {subsubsection}{\numberline {3.2.4}Entrada al Arduino}{8}%
+\contentsline {subsection}{\numberline {3.3}Medición de caudal con un sensor de hilo caliente}{8}%
+\contentsline {subsection}{\numberline {3.4}Centro de control}{10}%
+\contentsline {subsubsection}{\numberline {3.4.1}Protocolo de comunicación Arduino HMI}{10}%
+\contentsline {section}{\numberline {4}Construcción}{11}%
+\contentsline {subsection}{\numberline {4.1}Circuitos de control y sensores}{11}%
+\contentsline {subsection}{\numberline {4.2}Fuente de corriente constante}{13}%
+\contentsline {subsection}{\numberline {4.3}HMI}{14}%
+\contentsline {section}{\numberline {5}Pruebas y resultados obtenidos}{17}%
+\contentsline {section}{\numberline {6}Conclusión y recomendaciones}{19}%
